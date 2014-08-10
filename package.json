@@ -1,0 +1,21 @@
+{
+    "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
+    "name": "cryptojs_build",
+    "description": "a minified build of cryptojs",
+    "version": "2.9.9",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spencermountain/CryptoJS.git"
+    },
+    "engines": [
+        "node >= 0.3.6"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+        "grunt": "0.4.2",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-uglify": "*"
+    }
+}
